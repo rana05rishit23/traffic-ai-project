@@ -13,7 +13,7 @@ class TrafficEnv(gym.Env):
         self.sumoCmd = [
             self.sumoBinary,
             "-c",
-            "simulation.sumocfg"
+            "sumo/simulation.sumocfg"
         ]
 
         # Observation space (lane vehicle counts)

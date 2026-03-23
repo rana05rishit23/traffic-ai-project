@@ -45,3 +45,5 @@ The system dynamically adjusts traffic lights to reduce congestion compared to f
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+![Result](results/Figure_1.png)
