@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large files
+models/
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
